@@ -7,10 +7,8 @@
 <img width="856" alt="image" src="https://github.com/user-attachments/assets/3fe53439-1029-4fd1-bae0-06fce04ebe67">
 <img width="1669" alt="image" src="https://github.com/user-attachments/assets/425eecd8-8e63-4e18-b8c3-bcb957d3f194">
 
-
-
 # Configure SSH Access
-
+<img width="594" alt="image" src="https://github.com/user-attachments/assets/f456cc64-6ae0-4d57-bdbf-0b466358defc">
 
 # Inventory File
 
