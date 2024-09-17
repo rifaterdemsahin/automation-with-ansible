@@ -57,7 +57,7 @@ az vm create --resource-group ansibleworkshop --name ansiblerunner --image Ubunt
 5. **Open the SSH port (22)** if it's not already open:
 
    ```bash
-   az vm open-port --resource-group <yourResourceGroup> --name <yourVMName> --port 22
+   az vm open-port --resource-group ansibleworkshop --name ansiblerunner --port 22
    ```
 
 ### 3. Configure SSH Access
@@ -65,7 +65,7 @@ az vm create --resource-group ansibleworkshop --name ansiblerunner --image Ubunt
 Ensure you can SSH into your Azure VM using the SSH key generated during VM creation. The SSH keys will be stored in `~/.ssh` on your Mac:
 
 ```bash
-ssh azureuser@<azure_vm_public_ip>
+ssh azureuser@172.166.216.73
 ```
 
 ### 4. Inventory File
