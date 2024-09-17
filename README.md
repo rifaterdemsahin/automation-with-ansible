@@ -1,4 +1,5 @@
-This is a GitHub repository that demostrates CvAsCode. ReadMe / Code / Output Files to demonstrate handson skills
+📂 This is a GitHub repository that demonstrates 🧑‍💻 CvAsCode.
+📄 ReadMe / 💻 Code / 📁 Output Files to showcase hands-on skills.
 ---
 
 # Ansible Deployment Playbook
