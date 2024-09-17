@@ -3,6 +3,8 @@
 
 
 # Create the Azure VM
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/039b5db2-d776-43b7-b59b-aaf6e6e46ce3">
+
 
 
 # Configure SSH Access
