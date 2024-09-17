@@ -1,7 +1,7 @@
-   # ansible/deploy.yml
-   - hosts: all
-     tasks:
-       - name: Deploy application
-         shell: "powershell.exe -File scripts/deploy.ps1 -appName '{{ item }}'"
-         with_items:
-           - your_app_name
+# ansible/deploy.yml
+- hosts: all
+  tasks:
+    - name: Deploy application
+      shell: "./deploy.sh -appName '{{ item }}'"
+      with_items:
+        - your_app_name
