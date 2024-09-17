@@ -1,5 +1,4 @@
-Here's an updated version of the `README.md` for using a Mac as the control node for your Ansible deployment.
-
+This is a GitHub repository that demostrates CvAsCode. ReadMe / Code / Output Files to demonstrate handson skills
 ---
 
 # Ansible Deployment Playbook
