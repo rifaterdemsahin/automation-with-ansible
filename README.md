@@ -46,6 +46,9 @@ You can create an Azure VM using the Azure CLI:
 
 3. **Create the VM**:
 
+   az group create --name ansibleworkshop --location uksouth
+
+
    ```bash
    az vm create \
    --resource-group <yourResourceGroup> \
@@ -55,7 +58,7 @@ You can create an Azure VM using the Azure CLI:
    --generate-ssh-keys
    ```
 
-4. **Open the SSH port (22)** if it's not already open:
+5. **Open the SSH port (22)** if it's not already open:
 
    ```bash
    az vm open-port --resource-group <yourResourceGroup> --name <yourVMName> --port 22
