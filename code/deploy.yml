@@ -1,7 +1,13 @@
-# ansible/deploy.yml
+# deploy.yml
 - hosts: all
   tasks:
+    - name: Copy deploy.sh to remote machine
+      copy:
+        src: ./deploy.sh
+        dest: /tmp/deploy.sh
+        mode: '0755'
+
     - name: Deploy application
-      shell: "./deploy.sh -appName '{{ item }}'"
-      with_items:
+      shell: "/tmp/deploy.sh '{{ item }}'"
+      loop:
         - your_app_name
