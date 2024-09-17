@@ -16,6 +16,8 @@
 
 # Playbook
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/83455036-e32f-412d-b900-a8d2676251eb">
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/5fc9267b-4004-413f-92e2-aaae10f8abde">
+
 
 
 
