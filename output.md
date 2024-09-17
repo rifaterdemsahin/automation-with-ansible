@@ -11,6 +11,9 @@
 <img width="594" alt="image" src="https://github.com/user-attachments/assets/f456cc64-6ae0-4d57-bdbf-0b466358defc">
 
 # Inventory File
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/321b7082-4c72-47f6-bb3b-d1a831280e23">
+<img width="1706" alt="image" src="https://github.com/user-attachments/assets/7bced9bf-3b2f-4c27-a495-acce84f9b37a">
+
 
 
 
