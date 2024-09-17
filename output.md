@@ -21,6 +21,7 @@
 # Error
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/32b1f15d-9bc0-4f55-8659-1d26700ad314">
 <img width="819" alt="image" src="https://github.com/user-attachments/assets/79792b08-f4cd-4739-bd95-e2ff38f93802">
+<img width="1459" alt="image" src="https://github.com/user-attachments/assets/b03df718-4293-47b9-942c-9317e747b80a">
 
 
 
