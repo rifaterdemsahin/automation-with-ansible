@@ -14,10 +14,9 @@
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/321b7082-4c72-47f6-bb3b-d1a831280e23">
 <img width="1706" alt="image" src="https://github.com/user-attachments/assets/7bced9bf-3b2f-4c27-a495-acce84f9b37a">
 
-
-
-
 # Playbook
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/83455036-e32f-412d-b900-a8d2676251eb">
+
 
 
 #  Verify Ansible Connection
