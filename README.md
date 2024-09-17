@@ -50,12 +50,8 @@ You can create an Azure VM using the Azure CLI:
 
 
    ```bash
-   az vm create \
-   --resource-group <yourResourceGroup> \
-   --name <yourVMName> \
-   --image UbuntuLTS \
-   --admin-username azureuser \
-   --generate-ssh-keys
+az vm create --resource-group ansibleworkshop --name ansiblerunner --image Ubuntu2204 --admin-username azureuser --generate-ssh-keys
+
    ```
 
 5. **Open the SSH port (22)** if it's not already open:
