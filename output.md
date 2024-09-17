@@ -18,15 +18,17 @@
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/83455036-e32f-412d-b900-a8d2676251eb">
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/5fc9267b-4004-413f-92e2-aaae10f8abde">
 
-# Error
+# Error and Fix
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/32b1f15d-9bc0-4f55-8659-1d26700ad314">
 <img width="819" alt="image" src="https://github.com/user-attachments/assets/79792b08-f4cd-4739-bd95-e2ff38f93802">
 <img width="1459" alt="image" src="https://github.com/user-attachments/assets/b03df718-4293-47b9-942c-9317e747b80a">
-
-
-
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/0f6fb1ee-c26b-4c7d-b0bf-ec429dd6f6fb">
+<img width="763" alt="image" src="https://github.com/user-attachments/assets/a07333b0-1f17-4cec-9a97-beafc3f5ab08">
 
 #  Verify Ansible Connection
+<img width="765" alt="image" src="https://github.com/user-attachments/assets/4843feb3-0d9e-4b90-a9e0-8b75d5371127">
 
 
-# CleanUp Resources
+# CleanUp Resources and Deleting State
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/57f60b3c-db19-4609-a656-90da4c5c2fc6">
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/bd20ef5a-b922-4758-858f-54bb2fafb310">
